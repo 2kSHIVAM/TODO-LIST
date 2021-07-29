@@ -1,0 +1,37 @@
+.disp{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.table{
+    color: magenta;
+}
+#add{
+    background-color: magenta;
+}
+#add:hover{
+    color: yellow;
+}
+.search{
+    color: yellow;
+}
+h3{
+    background-color: yellow;
+    color: rgb(204, 0, 255);
+}
+#delete{
+    color:magenta;
+}
+
+.navi{
+    color: magenta;
+}
+#clear{
+    float: right;
+    background-color: magenta;
+}
+#clear:hover{
+    color: yellow;
+    
+    
+}
